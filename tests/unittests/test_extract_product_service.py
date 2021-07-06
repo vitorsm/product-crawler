@@ -10,11 +10,11 @@ from tests.utils_test import UtilsTest
 class TestExtractProductService(unittest.TestCase):
 
     def setUp(self):
-        self.source_dto_file_path1 = UtilsTest.get_resource(os.path.join("sources", "amazon_product_page.json"))
-        self.page_file_path1 = UtilsTest.get_resource(os.path.join("pages", "amazon_chromebook.html"))
+        self.source_dto_file_path1 = UtilsTest.get_resource(os.path.join("tests", "sources", "amazon_product_page.json"))
+        self.page_file_path1 = UtilsTest.get_resource(os.path.join("tests", "pages", "amazon_chromebook.html"))
 
-        self.source_dto_file_path2 = UtilsTest.get_resource(os.path.join("sources", "amazon_product_page.json"))
-        self.page_file_path2 = UtilsTest.get_resource(os.path.join("pages", "amazon_playstation5.html"))
+        self.source_dto_file_path2 = UtilsTest.get_resource(os.path.join("tests", "sources", "amazon_product_page.json"))
+        self.page_file_path2 = UtilsTest.get_resource(os.path.join("tests", "pages", "amazon_playstation5.html"))
 
     def test_extract_product_with_price(self):
         source_dto_file1 = open(self.source_dto_file_path1, "r")

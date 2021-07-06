@@ -1,0 +1,10 @@
+{
+  "address": "https://www.amazon.com.br/BRIGHT-0468-Headset-Bright/dp/B07FCSVDYV/?_encoding=UTF8&pd_rd_w=L0beZ&pf_rd_p=3715c78b-8cd7-40c8-9072-9a8c4f6613e3&pf_rd_r=3DRNB2HSATRPGZAFP1NX&pd_rd_r=1b87af5d-bbb9-4d39-a14b-c58bf3458d78&pd_rd_wg=V2aLz&ref_=pd_gw_ci_mcx_mr_hp_atf_m",
+  "template": {
+    "before_name": "<span id=\"productTitle\" class=\"a-size-large product-title-word-break\">",
+    "after_name": "</span>",
+    "before_price": "<span id=\"priceblock_ourprice\" class=\"a-size-medium a-color-price priceBlockBuyingPriceString\">",
+    "after_price": "</span>",
+    "first_name": true
+  }
+}

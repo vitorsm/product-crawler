@@ -1,0 +1,10 @@
+{
+  "address": "https://www.amazon.com.br/dp/B088GNRX3J/?coliid=I3LPZJ7IJNB07S&colid=H5BL1ZBTBHN5&psc=0&ref_=lv_ov_lig_dp_it",
+  "template": {
+    "before_name": "<span id=\"productTitle\" class=\"a-size-large product-title-word-break\">",
+    "after_name": "</span>",
+    "before_price": "<span id=\"priceblock_ourprice\" class=\"a-size-medium a-color-price priceBlockBuyingPriceString\">",
+    "after_price": "</span>",
+    "first_name": true
+  }
+}

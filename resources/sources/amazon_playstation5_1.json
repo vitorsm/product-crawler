@@ -1,0 +1,10 @@
+{
+  "address": "https://www.amazon.com.br/dp/B088GNRX3J/?tag=pelando-20",
+  "template": {
+    "before_name": "<span id=\"productTitle\" class=\"a-size-large product-title-word-break\">",
+    "after_name": "</span>",
+    "before_price": "<span id=\"priceblock_ourprice\" class=\"a-size-medium a-color-price priceBlockBuyingPriceString\">",
+    "after_price": "</span>",
+    "first_name": true
+  }
+}
